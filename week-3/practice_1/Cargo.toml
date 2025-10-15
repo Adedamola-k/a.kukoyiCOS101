@@ -1,0 +1,8 @@
+[package]
+name = "practice_1"
+version = "0.1.0"
+edition = "2024"
+
+# see more keys and their deffinitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
